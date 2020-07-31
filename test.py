@@ -1,0 +1,5 @@
+a=int(input("반지름: "))
+print("반지름은", a)
+b= int(input("반지름: "))
+print("반지름은 :", b)
+print("답 :", a*b*3.14)
